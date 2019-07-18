@@ -8,4 +8,3 @@ https://codepen.io/jcds1982/full/ywMbXO
   Mailslot Div</a> by Julio Davila (<a href="https://codepen.io/jcds1982">@jcds1982</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
